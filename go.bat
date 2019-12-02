@@ -1,1 +1,1 @@
-git status  && git add -A && git commit -m "尹秀娟-1740610473-对test.c代码段进行再次修改" && git push -u origin dev:dev
+git status  && git add -A && git commit -m "雷婷-1740610472-对test.c代码段进行再次修改" && git push -u origin dev:dev
